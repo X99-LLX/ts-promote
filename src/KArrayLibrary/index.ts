@@ -1,1 +1,1 @@
-export * from "./array"
+export * as kArrayLib from "./kArray"
